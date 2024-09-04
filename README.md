@@ -25,9 +25,8 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***DataWizard***😉 <br>
 ✔ I'm currently studying **Data Science** at **Boston University**<br>
-✔ I'm currently learning **Apache Airflow** & **dbt**<br>
+✔ I'm currently learning **Apache Spark** & **Apache Kafka**<br>
 ✔ I'm looking to collaborate on **Data Engineering** and **Analytics** projects<br>
 ✔ I'm looking for help with **Cloud Architecture**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
